@@ -10,18 +10,13 @@
     "author": "Saki Homma(sakkuru)",
     "license": "ISC",
     "dependencies": {
-        "@google-cloud/language": "^1.2.0",
         "body-parser": "^1.18.2",
-        "botbuilder": "^3.12.0",
-        "botbuilder-teams": "^0.1.7",
         "dotenv": "^4.0.0",
         "htmlparser2": "^3.9.2",
-        "node-polyglot": "^2.2.2",
         "nodemon": "^1.17.3",
         "request": "^2.85.0",
         "request-promise": "^4.2.2",
         "restify": "^6.3.2",
-        "thesaurus": "0.0.0",
         "treetagger": "^0.1.1",
         "xml-js": "^1.6.2"
     }
